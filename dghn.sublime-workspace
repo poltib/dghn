@@ -1,0 +1,1032 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"th",
+				"thumbRace"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"swi",
+				"swipeDescription"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"foreach",
+				"foreach	blade-foreach"
+			],
+			[
+				"array",
+				"arrayLevels"
+			],
+			[
+				"arr",
+				"arrayLevels"
+			],
+			[
+				"forea",
+				"foreach	foreach …"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ur",
+				"urlName  (variable)"
+			],
+			[
+				"session",
+				"sessionsList"
+			],
+			[
+				"boder-co",
+				"border-color"
+			],
+			[
+				"current",
+				"currentYear"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"date",
+				"date_start"
+			],
+			[
+				"yea",
+				"yearMonth"
+			],
+			[
+				"dare",
+				"dateExplode  (variable)"
+			],
+			[
+				"se",
+				"sessionsByDay  (variable)"
+			],
+			[
+				"ses",
+				"sessions  (variable)"
+			],
+			[
+				"sess",
+				"sessionsByDay"
+			],
+			[
+				"sessions",
+				"sessionsByDay"
+			],
+			[
+				"tue",
+				"tuesday"
+			],
+			[
+				"global",
+				"globalAttendances"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"at",
+				"attendance"
+			],
+			[
+				"glo",
+				"globalAttendances"
+			],
+			[
+				"fore",
+				"foreach	blade-foreach"
+			],
+			[
+				"stu",
+				"studentAtendances"
+			],
+			[
+				"att",
+				"attendances"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"attendance",
+				"attendance_id"
+			],
+			[
+				"has",
+				"hasMany"
+			],
+			[
+				"Categori",
+				"CategorieInterface"
+			],
+			[
+				"sponsor",
+				"sponsorsAdress"
+			],
+			[
+				"upl",
+				"uploadSuccess"
+			],
+			[
+				"belongsT",
+				"belongsToMany"
+			],
+			[
+				"race",
+				"racePoints"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"get_cat_",
+				"get_cat_name"
+			],
+			[
+				"get_cat",
+				"get_cat_ID"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ne",
+				"newMessage"
+			],
+			[
+				"created",
+				"created_at"
+			],
+			[
+				"dest",
+				"dest_id"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"use",
+				"userDescription"
+			],
+			[
+				"thumb",
+				"thumbLink"
+			],
+			[
+				"firs",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"set",
+				"setStarterMarker"
+			],
+			[
+				"sta",
+				"startPosition"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ele",
+				"elevation_chart"
+			],
+			[
+				"mon",
+				"monthNav"
+			],
+			[
+				"nex",
+				"nextMonth"
+			],
+			[
+				"month",
+				"monthWrap"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"traini",
+				"trainingPoints"
+			],
+			[
+				"train",
+				"training"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"link",
+				"link_to_route"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"slider",
+				"sliderInit"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"lin",
+				"link_to_route"
+			],
+			[
+				"column",
+				"column-span:   (property)"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"user",
+				"userProfil"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"texte",
+				"text-decoration"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"curret",
+				"currentMonth"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"show",
+				"showRace"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"box-s",
+				"box-sizing:   (property)"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"connexio",
+				"connexionForm"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"Url",
+				"UrlController"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"shor",
+				"shortened"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"maw",
+				"max-width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"register_post",
+				"register_post_type"
+			],
+			[
+				"widg",
+				"widgets_init"
+			],
+			[
+				"add_",
+				"add_action"
+			],
+			[
+				"have_",
+				"have_comments"
+			],
+			[
+				"over",
+				"overlayOpacity"
+			],
+			[
+				"css",
+				"cssPrefix"
+			],
+			[
+				"load",
+				"loadImage"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"background-",
+				"background-image:   (property)"
+			],
+			[
+				"fo",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syn bl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"synt bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"pck",
+				"Package Control: Install Package"
+			],
+			[
+				"syn lara",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"syn la",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"snippet if",
+				"Snippet: if … else …"
+			],
+			[
+				"if",
+				"Snippet: if …"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"snippe",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"#",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/projets/dghn/app/controllers/UsersController.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/layouts/map.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/layouts/noSlider.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/layouts/slider.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/users/login.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/routes.php",
+		"/Applications/MAMP/htdocs/projets/dghn/public/css/styles.css",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/layouts/scaffold.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/database/seeds/CoursesTableSeeder.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/database/migrations/2014_02_15_093600_create_courses_table.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/models/Course.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/database/seeds/DatabaseSeeder.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/controllers/ResultsController.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/controllers/SectionsController.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/controllers/AnnouncesController.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/controllers/ContactsController.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/controllers/CoursesController.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/contacts/create.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/contacts/edit.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/contacts/index.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/contacts/show.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/courses/create.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/courses/edit.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/courses/index.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/courses/show.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/results/create.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/results/edit.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/results/index.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/results/show.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/sections/create.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/sections/edit.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/sections/index.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/views/sections/show.blade.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/database/migrations/2014_02_15_093327_create_courses_table.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/database/seeds/SectionsTableSeeder.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/models/Section.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/database/seeds/ContactsTableSeeder.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/config/database.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/config/app.php",
+		"/Applications/MAMP/htdocs/projets/dghn/app/database/seeds/UsersTableSeeder.php",
+		"/Applications/MAMP/htdocs/projets/dghn/composer.json",
+		"/Applications/MAMP/htdocs/projets/pfe/js/swipe.js",
+		"/Applications/MAMP/htdocs/pres/public/.htaccess",
+		"/Applications/MAMP/htdocs/pres/app/routes.php",
+		"/Applications/MAMP/htdocs/pres/app/views/users/show.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/groups/index.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/controllers/GroupsController.php",
+		"/Applications/MAMP/htdocs/pres/app/controllers/UsersController.php",
+		"/Applications/MAMP/htdocs/pres/app/views/students/edit.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/controllers/SessionsController.php",
+		"/Applications/MAMP/htdocs/pres/vendor/gloudemans/calendar/src/Gloudemans/Calendar/CalendarGenerator.php",
+		"/Applications/MAMP/htdocs/pres/app/views/students/show.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/courses/show.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/courses/edit.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/groups/edit.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/groups/show.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/users/index.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/students/index.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/courses/index.blade.php",
+		"/Applications/MAMP/htdocs/pres/public/css/styles.css",
+		"/Applications/MAMP/htdocs/pres/app/views/groups/create.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/courses/create.blade.php",
+		"/Users/thiryjeremy/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/thiryjeremy/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/pres/app/models/User.php",
+		"/Applications/MAMP/htdocs/pres/app/controllers/CoursesController.php",
+		"/Applications/MAMP/htdocs/pres/app/models/Student.php",
+		"/Applications/MAMP/htdocs/pres/public/js/main.js",
+		"/Applications/MAMP/htdocs/pres/app/views/layouts/scaffold.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/users/login.blade.php",
+		"/Applications/MAMP/htdocs/pres/public/scss/page/_base.scss",
+		"/Applications/MAMP/htdocs/pres/app/controllers/StudentsController.php",
+		"/Applications/MAMP/htdocs/pres/app/views/sessions/show.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/sessions/index.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/sessions/edit.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/sessions/create.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/sessions/byDay.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/students/create.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/views/home/index.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/start/global.php",
+		"/Applications/MAMP/htdocs/pres/app/start/constants.php",
+		"/Applications/MAMP/htdocs/pres/public/scss/main.scss",
+		"/Applications/MAMP/htdocs/pres/vendor/gloudemans/calendar/src/lang/en/calendar.php",
+		"/Applications/MAMP/htdocs/pres/app/filters.php",
+		"/Applications/MAMP/htdocs/pres/bootstrap/start.php",
+		"/Applications/MAMP/htdocs/pres/app/config/app.php",
+		"/Applications/MAMP/htdocs/pres/vendor/gloudemans/calendar/src/lang/fr/calendar.php",
+		"/Applications/MAMP/htdocs/pres/app/models/CourseSession.php",
+		"/Applications/MAMP/htdocs/pres/app/database/migrations/2013_12_09_112628_add_slugs.php",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/SlugSeeder.php",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/StudentsTableSeeder.php",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/DatabaseSeeder.php",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/SessionStudentTableSeeder.php",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/schedule.csv",
+		"/Applications/MAMP/htdocs/pres/app/models/Group.php",
+		"/Applications/MAMP/htdocs/pres/public/css/main.css",
+		"/Applications/MAMP/htdocs/pres/app/views/index.blade.php",
+		"/Applications/MAMP/htdocs/pres/app/controllers/AuthenticationController.php",
+		"/Applications/MAMP/htdocs/pres/public/js/app.js",
+		"/Applications/MAMP/htdocs/pres/public/partials/home.html",
+		"/Applications/MAMP/htdocs/pres/public/partials/login.html",
+		"/Applications/MAMP/htdocs/pres/public/lib/angular/angular-resource.min.js",
+		"/Applications/MAMP/htdocs/pres/public/js/controllers.js",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/CourseUserTableSeeder.php",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/UsersTableSeeder.php",
+		"/Applications/MAMP/htdocs/pres/public/lib/angular/angular.min.js",
+		"/Applications/MAMP/htdocs/pres/public/lib/angular/angular-sanitize.min.js",
+		"/Applications/MAMP/htdocs/pres/app/database/migrations/2013_11_10_102040_create_users_table.php",
+		"/Applications/MAMP/htdocs/pres/public/js/directives.js",
+		"/Applications/MAMP/htdocs/pres/public/js/filters.js",
+		"/Applications/MAMP/htdocs/pres/public/js/services.js",
+		"/Applications/MAMP/htdocs/pres/app/database/migrations/2013_11_12_205025_create_course_user_table.php",
+		"/Applications/MAMP/htdocs/pres/app/database/migrations/2013_11_29_204629_create_level_user_table.php",
+		"/Applications/MAMP/htdocs/pres/app/database/migrations/2013_11_10_204940_create_groups_table.php",
+		"/Applications/MAMP/htdocs/pres/app/database/seeds/GroupsTableSeeder.php",
+		"/Applications/MAMP/htdocs/pres/app/models/Course.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/composer.json",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/config/app.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/views/hello.blade.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/database/migrations/2013_11_30_204940_create_groups_table.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/database/migrations/2013_11_06_204940_create_groups_table.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/database/migrations/2013_12_29_204629_create_group_teacher_table.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/database/seeds/DatabaseSeeder.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/database/seeds/GroupTeacherTableSeeder.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/models/CourseSession.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/models/Course.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/models/Teacher.php",
+		"/Applications/MAMP/htdocs/l4/Eloquent/app/models/Level.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email",
+			"create.",
+			"{{{",
+			"}}}",
+			"{{{",
+			"Course",
+			"level",
+			"<img src=\"../img/item1.jpg\" alt=\"\">",
+			"<li>",
+			"Les courses à venir",
+			"3",
+			"<h3 role=\"heading\" aria-level=\"3\">Les courses à venir</h3>",
+			"()",
+			";\n",
+			"nav-item >",
+			"Interrupteurs",
+			"Multiprises, rallonges et câbles",
+			"Interrupteurs",
+			"Multiprises, rallonges et câbles",
+			"Tissus anti-ondes",
+			"Interrupteurs",
+			"Multiprises, rallonges et câbles",
+			"c</a>",
+			"<li><a href=\"categorie.html\"",
+			"Swipe",
+			"my",
+			"mySwipe",
+			"window.mySwipe",
+			"selected",
+			"0.5",
+			"plop",
+			"nav",
+			"1",
+			"#ban img",
+			"255",
+			"&nbsp;:&nbsp;",
+			"<h4>",
+			"<h3>",
+			"<h3 ",
+			"<h2>",
+			"<h3>",
+			"h3",
+			"<article>",
+			",",
+			"a",
+			"categorie",
+			"year",
+			"level",
+			"error",
+			"notice",
+			"Thumb",
+			"thumb",
+			"<li>",
+			"</li>",
+			"1,",
+			"0",
+			"next_url",
+			"li",
+			"ul",
+			"paginator",
+			"hide",
+			"Info",
+			"info",
+			",",
+			" '.$session->course->name.'",
+			"annee",
+			"Info",
+			"info",
+			"id",
+			"0",
+			"230",
+			"24",
+			"li",
+			"cour",
+			"id",
+			"</li>",
+			"<li>",
+			"id",
+			"cour",
+			"eleve",
+			"groupe",
+			", array('class' => 'btn btn-danger')",
+			"li",
+			"ul",
+			"pure-table",
+			"224",
+			"id",
+			"course",
+			"id",
+			", array('class' => 'pure-button')",
+			", array(), array('class' => 'pure-button')",
+			" class=\"nav-item\"",
+			"b",
+			", array('class' => 'pure-button')",
+			", ,",
+			") }}",
+			"<li>",
+			"180",
+			"er",
+			"tu",
+			"mo",
+			"su",
+			", 'now'",
+			"\n		$now= carbon::now();",
+			"$now",
+			"2",
+			"0",
+			"prev",
+			"er",
+			"sun",
+			"@",
+			"',\n",
+			"=>",
+			",",
+			" '",
+			"=>",
+			".-.",
+			"-",
+			"@",
+			"lang",
+			"er",
+			"}}",
+			"{{",
+			"presences",
+			"83,119,122",
+			"240",
+			"student",
+			"236,236,213"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grou/ed",
+				"app/views/groups/edit.blade.php"
+			],
+			[
+				"group/in",
+				"app/views/groups/index.blade.php"
+			],
+			[
+				"rou",
+				"app/routes.php"
+			],
+			[
+				"user",
+				"app/controllers/UsersController.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"s",
+				"bootstrap/start.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"inde",
+				"app/views/sessions/index.blade.php"
+			],
+			[
+				"start",
+				"bootstrap/start.php"
+			],
+			[
+				"mode/use",
+				"app/models/User.php"
+			],
+			[
+				"users/",
+				"app/views/users/show.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true
+}
