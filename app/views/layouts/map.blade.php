@@ -13,6 +13,13 @@
                         <div class="fb-like" data-href="http://www.facebook.com/DauphinGraceHollogneNatation" data-width="310" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
                         </p>
                     </li>
+                    @foreach ($announces as $announce)
+                        <li>
+                        <h3>{{{$announce->nom}}}</h3>
+                        <p>{{$announce->annonce}}</p>
+                        <span>Posté le:</span>
+                    </li>
+                    @endforeach
                 </ul>
         </aside>
         <section id="content">

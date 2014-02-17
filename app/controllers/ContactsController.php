@@ -9,9 +9,10 @@ class ContactsController extends BaseController {
 	 */
 	protected $contact;
 
-	public function __construct(Contact $contact)
+	public function __construct(Contact $contact, Announce $announce)
 	{
 		$this->contact = $contact;
+		$this->announce = $announce;
 	}
 
 	/**
@@ -23,9 +24,11 @@ class ContactsController extends BaseController {
 	{
 		$contacts = $this->contact->all();
 
+		$announces = $this->announce->all();
+
 		$title = 'contact';
 
-		return View::make('contacts.index', compact('contacts', 'title'));
+		return View::make('contacts.index', compact('contacts', 'title', 'announces'));
 	}
 
 	/**

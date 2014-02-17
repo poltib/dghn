@@ -48,11 +48,27 @@ class ResultsController extends BaseController {
 	public function store()
 	{
 		$input = Input::all();
+		
 		$validation = Validator::make($input, Result::$rules);
 
 		if ($validation->passes())
 		{
-			$this->result->create($input);
+			$result = new Result;
+
+			$result->name = Input::get('name');
+
+			$result->date = Input::get('date');
+
+			if(Input::hasFile('result')){
+
+				$file = Input::get('result');
+
+				$file = $file->move(public_path().'/results/', time().'-'.$file->getClientOriginalName());
+
+				$result->result = $file;
+			}
+
+			$result->save();
 
 			return Redirect::route('results.index');
 		}
